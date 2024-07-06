@@ -1,7 +1,7 @@
 # pygame_Q-and-A
 ### Task1. Create a game template with a background and game loop.
 
-<img src="image.png" width="700"/>
+<img src="image.png" width="500"/>
 
 1. Connect to the Pygame library.
 
